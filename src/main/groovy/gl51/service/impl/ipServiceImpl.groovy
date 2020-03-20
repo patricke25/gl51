@@ -8,6 +8,6 @@ import gl51.service.ipService
 class IPServiceImpl implements ipService {
     @Override
     Ip fetchIp() {
-        returnrun null
+        return null
     }
 }
